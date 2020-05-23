@@ -1,0 +1,6 @@
+.vscode
+haskell/**/
+typescript/dist
+haskell/*.config
+c++/*.exe
+c++/*.h
